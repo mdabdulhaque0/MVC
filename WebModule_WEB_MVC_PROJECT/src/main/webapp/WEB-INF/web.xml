@@ -1,0 +1,8 @@
+<web-app>
+
+	<filter-mapping>
+		<filter-name>regFilter</filter-name>
+		<url-pattern>/registerServlet</url-pattern>
+	</filter-mapping>
+
+</web-app>
